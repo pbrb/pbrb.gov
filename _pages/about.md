@@ -13,7 +13,7 @@ The Public Buildings Reform Board (PBRB) was formeThe Public Buildings Reform Bo
 
 The Federal Assets Sale & Transfer Act of 2016, commonly referred to as FASTA, outlines the Board's roles and responsibilities for  identifying underutilized Federal real property. 
 
-#### Identify High Value Assets (HVAs)
+##### Identify High Value Assets (HVAs)
 The Board used a variety of sources to identify underutilized HVAs to include:
 <UL>
 <LI>Federal Real Property Database
@@ -22,7 +22,7 @@ The Board used a variety of sources to identify underutilized HVAs to include:
         </UL>        
         
 
-#### Recommend High Value Assets (HVAs) for Disposal 
+##### Recommend High Value Assets (HVAs) for Disposal 
 No later than 180 days after appointment, the Board must recommend high value, underutilized real property assets and recommend them for  disposal. The list of properties recommended for disposal must meet the following criteriea:
 <UL>
 <LI>No less than five properties recommended for disposal 

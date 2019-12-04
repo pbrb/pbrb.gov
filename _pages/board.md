@@ -6,12 +6,10 @@ sidenav: false
 
 # Board
 
-Appointed by May 10, 2019, the Board consists of the following five members:
+Appointed in May 2019, the Board currently consists of the following members:
 
-<section> 
- Angela Styles 
-</section>
-Nick Rahall 
-David Winstead
-Mary Phillips
-D. Talmage Hocker
+<br> Angela Styles, Acting Board Chair </br>
+<br> Mary Phillips, Board Member </br>
+<br> David Winstead, Board Member </br>
+<br> Nick Rahall, Board Member </br>
+<br> D. Talmage Hocker, Board Member </br>

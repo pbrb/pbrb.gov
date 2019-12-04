@@ -13,19 +13,25 @@ The Public Buildings Reform Board (PBRB) was formeThe Public Buildings Reform Bo
 
 The Federal Assets Sale & Transfer Act of 2016, commonly referred to as FASTA, outlines the Board's roles and responsibilities for delivering the mission of identifying underutilized Federal real property. 
 
-#### Identify High Value Assets
+#### Identify High Value Assets (HVAs)
+The Board used a variety of sources to identify underutilized HVAs to include:
+
+Federal Real Property Database
+Recommendations from Head of Agencies
+Recommendations from public forums
+
+#### Recommend High Value Assets (HVAs) for Disposal 
+No later than 180 days after appointment, the Board must recommend high value, underutilized real property assets and recommend them for  disposal. The list of properties recommended for disposal must meet the following criteriea:
+
+No less than five properties recommended for disposal 
+Total fair market value of all recommended properties shall be no less than $500M and no more than $750M
+None of the existing improvements on properties sold under this subsection may be leased back to the Government
+All properites must be sold within a year of the acceptance of the Report of Excess, unless it is in the financial interest of the Government to execute the sale more than a year after the acceptance of the Report of Excess, but not greater than 2 years
 
 
 
-#### Recommend High Value Assets (HVA) for Disposal 
-No later than 180 days after appointment, the Board must identifyhigh value, underutilized real property assets and recommend them for  disposal. The list of properties recommended for disposal must meet the following criteriea:
 
 
         
 
 
-#### Subsection heading (h4)
-
-Use the side navigation menu to help your users quickly skip to different sections of your page. The menu is best suited to displaying a hierarchy with one to three levels and, as we mentioned, to display the sub-navigation of a given page.
-
-Read the full documentation on our side navigation on the component page.

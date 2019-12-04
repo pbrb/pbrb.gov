@@ -15,10 +15,12 @@ The Federal Assets Sale & Transfer Act of 2016, commonly referred to as FASTA, o
 
 #### Identify High Value Assets (HVAs)
 The Board used a variety of sources to identify underutilized HVAs to include:
-
-Federal Real Property Database
-Recommendations from Head of Agencies
-Recommendations from public forums
+<UL>
+<LI>Federal Real Property Database
+<LI>Recommendations from Agencies
+<LI>Recommendations from public forums
+        </UL>        
+        
 
 #### Recommend High Value Assets (HVAs) for Disposal 
 No later than 180 days after appointment, the Board must recommend high value, underutilized real property assets and recommend them for  disposal. The list of properties recommended for disposal must meet the following criteriea:

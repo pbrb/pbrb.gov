@@ -24,11 +24,12 @@ The Board used a variety of sources to identify underutilized HVAs to include:
 
 #### Recommend High Value Assets (HVAs) for Disposal 
 No later than 180 days after appointment, the Board must recommend high value, underutilized real property assets and recommend them for  disposal. The list of properties recommended for disposal must meet the following criteriea:
-
-No less than five properties recommended for disposal 
-Total fair market value of all recommended properties shall be no less than $500M and no more than $750M
-None of the existing improvements on properties sold under this subsection may be leased back to the Government
-All properites must be sold within a year of the acceptance of the Report of Excess, unless it is in the financial interest of the Government to execute the sale more than a year after the acceptance of the Report of Excess, but not greater than 2 years
+<UL>
+<LI>No less than five properties recommended for disposal 
+<LI>Total fair market value of all recommended properties shall be no less than $500M and no more than $750M
+<LI>None of the existing improvements on properties sold under this subsection may be leased back to the Government
+<LI>All properites must be sold within a year of the acceptance of the Report of Excess, unless it is in the financial interest of the Government to execute the sale more than a year after the acceptance of the Report of Excess, but not greater than 2 years
+        </UL>
 
 
 

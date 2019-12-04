@@ -11,10 +11,20 @@ The Public Buildings Reform Board (PBRB) was formeThe Public Buildings Reform Bo
 
 ### FASTA
 
-The Federal Assets Sale & Transfer Act of 2016, commonly referred to as FASTA, outlines the Board's roles and responsibilities for delivering the mission of identifying underutilized Federal real property. A summary of the judicial responsibilities is as follows:
+The Federal Assets Sale & Transfer Act of 2016, commonly referred to as FASTA, outlines the Board's roles and responsibilities for delivering the mission of identifying underutilized Federal real property. 
+
+#### Identify High Value Assets
 
 
-    #### Subsection heading (h4)
+
+#### Recommend High Value Assets (HVA) for Disposal 
+No later than 180 days after appointment, the Board must identifyhigh value, underutilized real property assets and recommend them for  disposal. The list of properties recommended for disposal must meet the following criteriea:
+
+
+        
+
+
+#### Subsection heading (h4)
 
 Use the side navigation menu to help your users quickly skip to different sections of your page. The menu is best suited to displaying a hierarchy with one to three levels and, as we mentioned, to display the sub-navigation of a given page.
 

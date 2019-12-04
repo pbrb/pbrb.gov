@@ -11,7 +11,7 @@ The Public Buildings Reform Board (PBRB) was formeThe Public Buildings Reform Bo
 
 ### FASTA
 
-The Federal Assets Sale & Transfer Act of 2016, commonly referred to as FASTA, outlines the Board's roles and responsibilities for delivering the mission of identifying underutilized Federal real property. 
+The Federal Assets Sale & Transfer Act of 2016, commonly referred to as FASTA, outlines the Board's roles and responsibilities for  identifying underutilized Federal real property. 
 
 #### Identify High Value Assets (HVAs)
 The Board used a variety of sources to identify underutilized HVAs to include:

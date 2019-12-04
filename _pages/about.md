@@ -6,19 +6,13 @@ sidenav: false
 
 # About
 
-The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
+The Public Buildings Reform Board (PBRB) was formeThe Public Buildings Reform Board (PBRB) was established with the passing of P.L. 114-287, the Federal Assets Sale & Transfer Act of 2016 (FASTA), as an independent agency to identify opportunities for the Federal government to significantly reduce its inventory of civilian real property and thereby reduce costs. Appointed in May 2019, the Board is well underway in delivering it's first set of recommendations, known as tranch 1, that identifies 
 
-We can also use variables in our pages. For example, this is the title variable: **{{page.title}}**
 
-## Section heading (h2)
+### FASTA
 
-These headings introduce, respectively, sections and subsections within your body copy. As you create these headings, follow the same guidelines that you use when writing section headings: Be succinct, descriptive, and precise.
+The Federal Assets Sale & Transfer Act of 2016, commonly referred to as FASTA, outlines the Board's roles and responsibilities for delivering the mission of identifying underutilized Federal real property. A summary of teh guidelines are as follows:
 
-### Subsection heading (h3)
-
-The particulars of your body copy will be determined by the topic of your page. Regardless of topic, it’s a good practice to follow the inverted pyramid structure when writing copy: Begin with the information that’s most important to your users and then present information of less importance.
-
-Keep each section and subsection focused — a good approach is to include one theme (topic) per section.
 
 #### Subsection heading (h4)
 

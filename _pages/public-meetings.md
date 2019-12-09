@@ -13,4 +13,4 @@ These headings introduce, respectively, sections and subsections within your bod
 ### Past Publc Meetings 
 
 2019-12-11 First Meeting
-[View Meeting Notes]({site.baseurl}/assets/uploads/Notes%20Laguna%20Niguel%20Public%20meeting%20July%2024th%202019.docx)
+[View Meeting Notes]({{site.baseurl}}/assets/uploads/Notes%20Laguna%20Niguel%20Public%20meeting%20July%2024th%202019.docx)

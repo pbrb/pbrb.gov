@@ -5,24 +5,29 @@ sidenav: false
 title:
 ---
 
-# Home
+# About
 
-The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
+The Public Buildings Reform Board (PBRB) was formeThe Public Buildings Reform Board (PBRB) was established with the passing of P.L. 114-287, the Federal Assets Sale & Transfer Act of 2016 (FASTA), as an independent agency to identify opportunities for the Federal government to significantly reduce its inventory of civilian real property and thereby reduce costs. Appointed in May 2019, the Board is well underway in delivering it's first set of recommendations, referred to as tranche one, within 180 days of their appointment. 
 
-We can also use variables in our pages. For example, this is the title variable: **{{page.title}}**
 
-## Section heading (h2)
+### FASTA
 
-These headings introduce, respectively, sections and subsections within your body copy. As you create these headings, follow the same guidelines that you use when writing section headings: Be succinct, descriptive, and precise.
+The Federal Assets Sale & Transfer Act of 2016, commonly referred to as FASTA, outlines the Board's roles and responsibilities for  identifying underutilized Federal real property. 
 
-### Subsection heading (h3)
+##### Identify High Value Assets (HVAs)
+The Board used a variety of sources to identify underutilized HVAs to include:
+<UL>
+<LI>Federal Real Property Database
+<LI>Recommendations from Agencies
+<LI>Recommendations from public forums
+        </UL>        
+        
 
-The particulars of your body copy will be determined by the topic of your page. Regardless of topic, it’s a good practice to follow the inverted pyramid structure when writing copy: Begin with the information that’s most important to your users and then present information of less importance.
-
-Keep each section and subsection focused — a good approach is to include one theme (topic) per section.
-
-#### Subsection heading (h4)
-
-Use the side navigation menu to help your users quickly skip to different sections of your page. The menu is best suited to displaying a hierarchy with one to three levels and, as we mentioned, to display the sub-navigation of a given page.
-
-Read the full documentation on our side navigation on the component page.
+##### Recommend High Value Assets (HVAs) for Disposal 
+No later than 180 days after appointment, the Board must recommend high value, underutilized real property assets and recommend them for  disposal. The list of properties recommended for disposal must meet the following criteriea:
+<UL>
+<LI>No less than five properties recommended for disposal 
+<LI>Total fair market value of all recommended properties shall be no less than $500M and no more than $750M
+<LI>None of the existing improvements on properties sold under this subsection may be leased back to the Government
+<LI>All properites must be sold within a year of the acceptance of the Report of Excess, unless it is in the financial interest of the Government to execute the sale more than a year after the acceptance of the Report of Excess, but not greater than 2 years
+        </UL>

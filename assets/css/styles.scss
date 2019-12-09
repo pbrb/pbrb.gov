@@ -39,10 +39,25 @@
   }
 }
 
-.usa-nav {
-  background-color: #660000;
-}
-
-.usa-header {
+.usa-header, .usa-header--extended {
   background-color: #fff;
+
+  .usa-nav {
+    background-color: #660000;
+
+    .usa-nav__inner {
+      .usa-nav__primary-item {
+        a {
+          color: #fff;
+          &:hover {
+            color: #fff;
+          }
+        }
+      }
+    }
+  }
+
+  .usa-current:after, .usa-nav__link:hover:after, [aria-expanded=true]:after {
+    background-color: #fff;
+  }
 }

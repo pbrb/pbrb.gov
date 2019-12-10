@@ -10,6 +10,6 @@ There are no scheduled upcoming public meetings at this time. Check this page re
 
 ### Past Publc Meetings 
 
-Public Meeting 1 <br>
-Jun 16, 2019 <br>
+#### Public Meeting 1 <br>
+June 16, 2019 <br>
 Washington, DC

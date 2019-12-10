@@ -11,7 +11,7 @@ There are no scheduled upcoming public meetings at this time. Check this page re
 
 ### Past Public Meetings 
 
-Public Meeting 1<em><br>
+Public Meeting 1</em><br>
 Date: June 16, 2019 <br>
 Location: Washington, DC<br>
 [Meeting Agenda]({{site.baseurl}}/master/assets/uploads/PBRB%20Public%20Meeting%201%20June%2016%202019%20Agenda.pdf)<br>

@@ -54,8 +54,13 @@ primary_navigation:
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
 searchgov:
+  endpoint: https://search.usa.gov # You should not change this.
   affiliate: pbrb
-  inline: false
+  access_key: bh5KiZ9Y7l6V7KE6Zi50nWRfzbx_tU7nap-VuwOu3CU= # This is placeholder. Not private.
+  inline: false #this renders the results on the same domain. Otherwise, it will render the results in the search.gov domain
+
+
+  
 
 ##########################################################################################
 # The values below here are more advanced and should only be

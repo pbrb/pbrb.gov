@@ -7,7 +7,7 @@ title:
 
 # About
 
-The Public Buildings Reform Board (PBRB) was established with the passing of P.L. 114-287, the Federal Assets Sale & Transfer Act of 2016 (FASTA), as an independent agency to identify opportunities for the Federal government to significantly reduce its inventory of civilian real property and thereby reduce costs. Appointed in May 2019, the Board is well underway in delivering it's first set of recommendations, referred to as tranche one, within 180 days of their appointment. 
+The Public Buildings Reform Board (PBRB) was established under P.L. 114-287, the Federal Assets Sale & Transfer Act of 2016 (FASTA), as an independent agency to identify opportunities for the Federal government to significantly reduce its inventory of civilian real property and thereby reduce costs. Sworn into service in May 2019, the Board is well underway in delivering it's first set of recommendations required within 180 days of their appointment. 
 
 
 ### FASTA
@@ -20,9 +20,7 @@ The Board used a variety of sources to identify underutilized HVAs to include:
 <LI>Federal Real Property Database
 <LI>Recommendations from Agencies
 <LI>Recommendations from public forums
-            
-        
-
+     
 ##### Recommend High Value Assets (HVAs) for Disposal 
 No later than 180 days after appointment, the Board must recommend high value, underutilized real property assets and recommend them for  disposal. The list of properties recommended for disposal must meet the following criteriea:
 <UL>

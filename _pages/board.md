@@ -6,7 +6,7 @@ sidenav: false
 
 # Board
 
-Appointed in May 2019, the Board currently consists of the following members:
+Sworn in to service in May 2019, the Board currently consists of the following members:
 
 #### Angela Styles, Acting Board Chair<br>
 Angela Styles is a partner at Akin Gump Strauss Hauer & Feld with a practice spanning over 25 years on complex Federal contracting issues. Specifically, Ms. Styles is recognized for her deep experience in Government procurement policy, cost and pricing issues, commercial item contracting, other transaction authority agreements, and ethics. Ms. Styles’ Federal service includes positions as OMB Administrator for Federal Procurement Policy, an appointee at GSA’s Public Buildings Service, and a Legislative Aide for Congressman Joe Barton. In 2018, Ms. Styles and her husband established the Das Leben Foundation, a private foundation focused on historical preservation.

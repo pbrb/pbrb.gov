@@ -31,7 +31,6 @@ No later than 180 days after appointment, the Board must recommend high value, u
 <LI>All properites must be sold within a year of the acceptance of the Report of Excess, unless it is in the financial interest of the Government to execute the sale more than a year after the acceptance of the Report of Excess, but not greater than 2 years
      </UL>
 <br>     
-<br>
-<br>
-<center> Questions, comments or recommendations? Reach out to the PBRB at fastainfo@pbrb.gov </center>
+<p style="text-align:center"> Questions, comments or recommendations? Reach out to the PBRB at fastainfo@pbrb.gov </p>
+
        

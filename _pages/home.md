@@ -21,7 +21,7 @@ The Board used a variety of sources to identify underutilized HVAs to include:
 <LI>Recommendations from Agencies
 <LI>Recommendations from public forums
      
-##### Recommend High Value Assets (HVAs) for Disposal 
+#### Recommend High Value Assets (HVAs) for Disposal 
 No later than 180 days after appointment, the Board must recommend high value, underutilized real property assets and recommend them for  disposal. The list of properties recommended for disposal must meet the following criteriea:
 <UL>
 <LI>No less than five properties recommended for disposal 

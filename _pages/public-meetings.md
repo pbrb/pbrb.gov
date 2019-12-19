@@ -6,8 +6,9 @@ sidenav: false
 
 #### Upcoming Public Meetings 
 
-There are no scheduled upcoming public meetings at this time. Check this page regularly for more updates. 
-<hr>
+There are no scheduled upcoming public meetings at this time. Check this page regularly for more updates.  
+
+___
 
 #### Past Public Meetings 
 

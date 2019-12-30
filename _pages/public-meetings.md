@@ -11,7 +11,7 @@ Please join the PBRB on January 20, 2020 in Washington, DC, to discuss its final
 
 <br> Date: Monday, January 13, 2020
 <br> Time: 9:00AM - 11:00AM EST
-<br> Location: GSA Audiotorium, 1800 F Street NW, Washington, DC 20006
+<br> Location: GSA Auditorium, 1800 F Street NW, Washington, DC 20006
 <br> <a href="https://www.federalregister.gov/documents/2019/12/27/2019-28031/public-meeting-of-the-public-buildings-reform-board"> Federal Register Notice </a>
 
 

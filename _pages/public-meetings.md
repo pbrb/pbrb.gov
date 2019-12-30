@@ -16,8 +16,8 @@ Please join the PBRB on January 20, 2020 in Washington, DC, to discuss its final
 
 
 
-Registration is required for attendence. Please register for the meeting<a href="https://www.eventbrite.com/e/public-buildings-reform-board-public-meeting-january-13-2020-tickets-86809745285">here </a>. Registration closes on Thursday, January 9, 2020. 
-
+Registration is required for attendence. Please register for the meeting<a href="https://www.eventbrite.com/e/public-buildings-reform-board-public-meeting-january-13-2020-tickets-86809745285"> here </a> . Registration closes on Thursday, January 9, 2020. 
+ 
 Questions can be e-mailed to fastainfo@pbrb.gov
 
 

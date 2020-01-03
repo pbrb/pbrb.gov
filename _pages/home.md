@@ -7,7 +7,7 @@ title:
 
 ### About
 
-The Public Buildings Reform Board (PBRB) was established under P.L. 114-287, the Federal Assets Sale & Transfer Act of 2016 (FASTA), as an independent agency to identify opportunities for the Federal government to significantly reduce its inventory of civilian real property and thereby reduce costs. Sworn into service in May 2019, the Board is well underway in delivering its first set of recommendations required within 180 days of their appointment. 
+The Public Buildings Reform Board (PBRB) was established under P.L. 114-287, the Federal Assets Sale & Transfer Act of 2016 (FASTA), as an independent agency to identify opportunities for the Federal government to significantly reduce its inventory of civilian real property and thereby reduce costs. 
 
 
 ### FASTA

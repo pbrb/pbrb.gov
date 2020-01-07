@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   as an independent agency to identify opportunities for the Federal government to significantly reduce its inventory of civilian 
   real property and thereby reduce costs.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.pbrb.gov/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.pbrb.gov" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Configuration for DAP, add your agency ID here:

@@ -21,16 +21,12 @@
 title: PBRB
 email:  contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
+  The Public Buildings Reform Board (PBRB) was established under P.L. 114-287, the Federal Assets Sale & Transfer Act of 2016 (FASTA), 
+  as an independent agency to identify opportunities for the Federal government to significantly reduce its inventory of civilian 
+  real property and thereby reduce costs.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Twitter handle. Only the handle, not the URL.
-# twitter: 18F
-
-# Configuration for Google Analytics, add your UA code here:
-google_analytics_ua: UA-????????-??
 
 # Configuration for DAP, add your agency ID here:
 dap_agency: GSA

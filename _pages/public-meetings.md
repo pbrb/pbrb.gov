@@ -6,7 +6,7 @@ sidenav: false
 
 #### Upcoming Public Meetings 
 
-There are no upcoming scheduled meetings at this time. Questions adn comments can be e-mailed to fastainfo@pbrb.gov
+There are no upcoming scheduled meetings at this time. Questions and comments can be e-mailed to fastainfo@pbrb.gov
 
 
 #### Past Public Meetings 

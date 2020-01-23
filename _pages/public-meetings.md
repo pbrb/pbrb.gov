@@ -10,7 +10,7 @@ There are no upcoming scheduled meetings at this time. Questions adn comments ca
 
 
 #### Past Public Meetings 
-[Public Meeting 5] (Transcript to be released soon)({{site.baseurl}}assets/uploads/Agenda%20-%20PBRB%20Public%20Meeting%201_13_2020.docx)  
+[Public Meeting 5] (Transcript to be released soon) ({{site.baseurl}}assets/uploads/Agenda%20-%20PBRB%20Public%20Meeting%201_13_2020.docx)  
 January 13, 2020, Washington, DC
 
 [Public Meeting 4]({{site.baseurl}}/assets/uploads/PBRB%20Public%20Meeting%20July%2016%2C%20Agenda.pdf)  

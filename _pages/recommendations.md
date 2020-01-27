@@ -5,7 +5,8 @@ sidenav: false
 ---
 ## High Value Asset Submission 
 
-On October 31, 2019, the Board submitted its first set of recommendations to the Office of Management and Budget (OMB) for approval. Below is the official submission from the Board along with the official response from OMB. Subsequent to OMB’s disapproval, the Board resubmitted its recommendations on December 27, 2019.  On January 24, 2020, the OMB approved the Board's resubmission of the High Value Assets list, see letter attached below.
+On October 31, 2019, the Board submitted its first set of recommendations to the Office of Management and Budget (OMB) for approval. Below is the official submission from the Board along with the official response from OMB. Subsequent to OMB’s disapproval, the Board resubmitted its recommendations on December 27, 2019.  On January 24, 2020, the OMB approved the Board's resubmission.
+
   
  All questions and comments regarding the submission and subsequent responses can be directed to [fastainfo@pbrb.gov](fastainfo@pbrb.gov)
 

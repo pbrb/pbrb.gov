@@ -10,7 +10,7 @@ There are no upcoming scheduled meetings at this time. Questions and comments ca
 
 
 #### Past Public Meetings 
-[Public Meeting 5]({{site.baseurl}}assets/uploads/Public%20Buildings%20Reform%20Board%20Public%20Meeting%205%20Agenda%20.pdf)  
+[Public Meeting 5]({{site.baseurl}}/assets/uploads/Public%20Buildings%20Reform%20Board%20Public%20Meeting%205%20Agenda%20.pdf)  
 January 13, 2020, Washington, DC
 
 [Public Meeting 4]({{site.baseurl}}/assets/uploads/PBRB%20Public%20Meeting%20July%2016%2C%20Agenda.pdf)  

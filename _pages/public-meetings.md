@@ -13,7 +13,7 @@ There are no upcoming scheduled meetings at this time. Questions and comments ca
 [Public Meeting 5]({{site.baseurl}}/assets/uploads/Public%20Buildings%20Reform%20Board%20Public%20Meeting%205%20Agenda%20.pdf)  
 January 13, 2020, Washington, DC
 
-[Public Meeting 4]({{site.baseurl}}/assets/uploads/PBRB%20Public%20Meeting%20July%2016%2C%20Agenda.pdf)  
+[Public Meeting 4]({{site.baseurl}}/assets/uploads/Notes%20Denver%20Public%20meeting%20July%2025th%202019%20(1).pdf)  
 July 25, 2019, Denver, CO
 
 [Public Meeting 3]({{site.baseurl}}/assets/uploads/Public%20Meeting%20July%2024th%20Laguna%20Niguel%20Notes.pdf)  

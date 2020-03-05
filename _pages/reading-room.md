@@ -4,6 +4,6 @@ layout: page
 sidenav: false
 published: true
 ---
-## High Value Asset Submission 
+## Reading Room
 
-test
+[PBRD Content]({{site.baseurl}}/assets/uploads/PBRD_Content.pdf) 

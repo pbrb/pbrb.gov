@@ -41,6 +41,8 @@ primary_navigation:
     url: /public-meetings/
   - name: Recommendations
     url: /recommendations/
+  - name: Reading Room
+    url: /reading-room/
 
 
 

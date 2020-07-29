@@ -9,6 +9,12 @@ title:
 
 The Public Buildings Reform Board (PBRB) was established under P.L. 114-287, the Federal Assets Sale & Transfer Act of 2016 (FASTA), as an independent agency to identify opportunities for the Federal government to significantly reduce its inventory of civilian real property and thereby reduce costs. 
 
+### Update
+
+Since January, when the Office of Management and Budget (OMB) approved the recommendations of the Public Buildings Reform Board to sell 12 Federal properties valued at $500 to $750 million, the Board has been working with the General Services Administration (GSA) to prepare the properties for sale.  The Board initially recommended selling each property individually.  However, given the impact of the coronavirus pandemic on the commercial real estate market, the Board has decided, in consultation with GSA and OMB, to sell the properties as a single portfolio, although still enabling offers for individual assets.  This broader approach will help ensure the sale or sales will be completed within the statutory deadline set by the Federal Assets Sale and Transfer Act (FASTA).  The Board’s goal, consistent with FASTA, remains to maximize the return to the taxpayer, taking into account current market conditions.  
+
+The Government intends to bring the properties to market by early 2021.  In the near future, the GSA will be procuring Brokerage and Advisory services to assist in this effort.  Details regarding the properties, along with information about the marketing and sales process, will be available on both the GSA and PBRB websites.  Additionally, the Board plans to hold a public meeting this Fall to elaborate on the Government’s strategies and solicit feedback. 
+
 
 ### FASTA
 

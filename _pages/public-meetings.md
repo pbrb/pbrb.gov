@@ -6,7 +6,8 @@ sidenav: false
 
 #### Upcoming Public Meetings 
 
-There are no upcoming scheduled meetings at this time. Questions and comments can be e-mailed to fastainfo@pbrb.gov
+The Board will host its next <a href="https://www.federalregister.gov/documents/2020/09/14/2020-20175/notice-of-public-meeting-progress-on-selling-the-high-value-assets-and-preparations-for-the-upcoming">public meeting</a> virtually on Thursday, October 1, 2020, from 2:00 - 4:00 PM (EDT). 
+<br>Registration is required to attend. To register, click <a href="https://jllmeet.webex.com/jllmeet/onstage/g.php?MTID=e56b82ebae21118cbb2919c9853546c19">here</a>. 
 
 
 #### Past Public Meetings 

@@ -10,7 +10,7 @@ There are no upcoming scheduled meetings at this time. Questions and comments ca
 
 
 #### Past Public Meetings 
-[Public Meeting 5]({{site.baseurl}}/assets/uploads/Public%20Buildings%20Reform%20Board%20Public%20Meeting%205%20Agenda%20.pdf)  
+[Public Meeting 5]({{site.baseurl}}/assets/uploads/20191227%20High%20Value%20Assets%20Report%20as%20Required%20by%20FASTA.pdf)  
 January 13, 2020, Washington, DC
 
 [Public Meeting 4]({{site.baseurl}}/assets/uploads/Notes%20Denver%20Public%20meeting%20July%2025th%202019%20(1).pdf)  

@@ -10,7 +10,7 @@ There are no upcoming meetings scheduled at this time.
 
 #### Past Public Meetings 
 
-[Public Meeting 6]({{site.baseurl}}assets/uploads/October%201%202020%20Public%20Meeting%20-%20Transcript.pdf)  
+[Public Meeting 6]({{site.baseurl}}assets/uploads/October%201%202020%20Public%20Meeting%20-%20Agenda%20and%20Presentation.pdf)  
 October 1, 2020, Virtual
 
 [Public Meeting 5]({{site.baseurl}}/assets/uploads/20191227%20High%20Value%20Assets%20Report%20as%20Required%20by%20FASTA.pdf)  
